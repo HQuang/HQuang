@@ -6,8 +6,7 @@
  |_| |_|\___/|_| |_|\__, |\__\_\\__,_|\__,_|_| |_|\__, (_)____/ \___| \_/  
                     |___/                         |___/                    
 ```
-
-<!-- ## 👋 &nbsp;Hi there! I'm QuangLH -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi there! I'm QuangLH</h2>
 
 ```javascript
 const quanglh = {
