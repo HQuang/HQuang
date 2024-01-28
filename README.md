@@ -6,8 +6,7 @@
  |_| |_|\___/|_| |_|\__, |\__\_\\__,_|\__,_|_| |_|\__, (_)____/ \___| \_/  
                     |___/                         |___/                    
 ```
-
-<!-- ## 👋 &nbsp;Hi there! I'm QuangLH -->
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hi there! I'm QuangLH</h2>
 
 ```javascript
 const quanglh = {
@@ -33,3 +32,11 @@ const quanglh = {
     studying: ["Golang"]
 };
 ```
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/quanglh268"><img src="https://img.shields.io/badge/-Hong%20Quang%20Le-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:quanglh268@gmail.com"><img src="https://img.shields.io/badge/-quanglh268@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://facebook.com/quanglh268"><img src="https://img.shields.io/badge/-Lê%20Hồng%20Quang-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+</p>
