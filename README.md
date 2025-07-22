@@ -14,18 +14,18 @@ const quanglh = {
     fullStack: {
         frontEnd: {
             languages: ["HTML", "CSS", "Javascript"],
-            frameworksLibraries: ["KnockoutJs", "Typescript", "AngularJs", "ReactJs", "JQuery"]
+            frameworksLibraries: ["KnockoutJs", "Typescript", "AngularJs", "ReactJs", "JQuery", "NextJs"]
         },
         backEnd: {
-            languages: ["PHP","Python","Go", "GraphQL"],
+            languages: ["PHP","Python","Go", "GraphQL", "RestAPI"],
             js: ["Node", "Fastify", "Express"],
-            frameworks: ["Nuke", "Laravel", "Yii", "CakePHP", "Fastapi"],
-            cms: ["NukeViet", "Botble", "October", "Magento", "Wordpress", "Joomla", "Odoo", "Django"]
+            frameworks: ["Nuke", "Laravel", "Yii2", "CakePHP", "Fastapi", "Codeigniter"],
+            cms: ["NukeViet", "Drupal", "Botble", "Prestashop", "October", "Magento", "Wordpress", "Joomla", "Odoo", "Django"]
         },
-        cloud: ["AWS", "GCP"],
+        cloud: ["AWS", "GCP", "Vultr"],
         devOps: ["AWS", "GCP", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        versionControlSystem: ["Git", "SVN"],
+        dbms: ["MongoDb", "MySql", "sqlite", "PostgreSQL"],
+        vcs: ["Git", "SVN"],
         misc: ["Firebase", "Socket Server"]
     },
     architecture: ["Microservices", "Event-driven", "Design system pattern", "Serverless Architecture", "Progressive web applications", "Single page applications"],
